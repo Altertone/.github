@@ -1,47 +1,57 @@
 # Altertone
 
-**A personal collection of Spotify customization projects.**
+**A personal collection of Spicetify themes and extensions.**
 
-Altertone is where I build and maintain tools that make Spotify feel more personal — from artwork-aware themes to synchronized lyrics and thoughtful quality-of-life extensions.
+Altertone explores a more considered Spotify desktop experience through thoughtful interface design, useful listening tools, and small details that make everyday use better.
 
-The focus is simple: useful features, intentional design, lightweight implementation, and customization that feels like it belongs.
+The work is focused on three things: **clarity, customization, and reliability.** No unnecessary decoration, no features for the sake of a checklist.
 
 ---
 
 ## Projects
 
 ### [Luma Ambient](https://github.com/Altertone/Luma-Ambient)
-**An artwork-aware Spicetify theme.**
+**An artwork-aware theme for Spotify.**
 
-A Material-inspired Spotify theme that adapts its visual identity to album artwork, with a focus on clarity, atmosphere, and a less cluttered listening experience.
+A Material-inspired visual experience built around album artwork. Luma Ambient brings a more cohesive interface to Spotify while keeping the listening experience clear and focused.
+
+[View repository](https://github.com/Altertone/Luma-Ambient)
 
 ### [Luma Lyrics](https://github.com/Altertone/Luma-Lyrics)
-**Synchronized lyrics for Spotify.**
+**A synchronized lyrics extension.**
 
-A dedicated lyrics experience with synchronized playback, enhanced word timing, translations, and additional reading controls.
+A dedicated lyrics experience designed to keep words in step with the music, with playback-aware timing and practical reading controls.
+
+[View repository](https://github.com/Altertone/Luma-Lyrics)
 
 ### [Luma Plus](https://github.com/Altertone/Luma-Plus)
-**Small enhancements for Luma Lyrics.**
+**A companion extension for Luma Lyrics.**
 
-A companion extension that adds per-track synchronization memory, playback shortcuts, and convenient controls.
+Adds useful quality-of-life controls, including per-track synchronization adjustments and playback shortcuts.
 
----
-
-## Philosophy
-
-- **Function first** — features should work reliably, not just look impressive.
-- **Intentional design** — every visual and interactive element should have a purpose.
-- **Lightweight by design** — avoid unnecessary dependencies and overhead.
-- **Open development** — maintainable code, documented changes, and transparent improvements.
+[View repository](https://github.com/Altertone/Luma-Plus)
 
 ---
 
-## Built for Spotify
+## Design principles
 
-Altertone projects are designed around [Spicetify](https://spicetify.app/) and the Spotify desktop experience.
-
-Each project has its own repository, documentation, and development history.
+| Principle | What it means |
+| --- | --- |
+| **Purposeful** | Every feature and interface element should solve a real problem. |
+| **Consistent** | Visual decisions should feel like part of one coherent experience. |
+| **Lightweight** | Keep implementation efficient and avoid unnecessary dependencies. |
+| **Maintainable** | Prefer readable code, clear documentation, and considered updates. |
 
 ---
 
-<sub>Altertone · Independent projects, personal customization.</sub>
+## About the collection
+
+Altertone is an independent, personal project collection. Each project is developed and maintained in its own repository, with its own documentation and release history.
+
+All projects are built for the Spotify desktop experience using [Spicetify](https://spicetify.app/).
+
+Altertone is not affiliated with, endorsed by, or sponsored by Spotify.
+
+---
+
+<sub>Altertone — independent work in Spotify customization.</sub>
